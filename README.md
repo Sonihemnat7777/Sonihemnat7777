@@ -14,9 +14,9 @@
   
 🔭 I'm currently working on **a chat app** 
 
-🌿 I'm currently learning **Redis, Tailwind, React Native Expo**
+🌿 I'm currently learning ** Tailwind, React **
 
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **JavaScript, React or anything [here](https://github.com/Sonihemnat7777)**
 
 🗲 Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
