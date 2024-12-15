@@ -26,7 +26,7 @@
  <a href="mailto:pedro.sonyhemant0786@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
 </a>
-<a href="https://in.linkedin.com/in/pedro-sales-muniz" target="_blank">
+<a href="https://www.linkedin.com/in/hemant-soni-66755b33b" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-007785?style-for-the-badge&logo-linkedin&logoColor=white" target="_blank" />
 </a>
 <a href="https://salesp07.github.io" target="_blank">
