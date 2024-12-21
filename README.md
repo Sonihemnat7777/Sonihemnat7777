@@ -12,8 +12,9 @@
 
 <br/>    
 
- 
-   ![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/user-attachments/assets/72f4487b-62d6-401a-8715-784d0f78b1fb)
+ ![giphy](https://github.com/user-attachments/assets/8b5df21a-a0c1-4f59-975d-cd0ef55207aa)
+
+  
   
   
 🔭 I'm currently working on **a chat app** 
