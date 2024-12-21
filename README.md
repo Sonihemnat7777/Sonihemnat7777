@@ -52,9 +52,10 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
    <br/><br/><br/>
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonihemnat7777" alt="sonihemnat7777" /></a> </p>
+    <h2> 🏆 My thropies 🏆 </h2>
+ <p align="left"> <ahref="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonihemnat7777" alt="sonihemnat7777" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
 </p>
 
