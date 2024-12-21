@@ -11,11 +11,6 @@
 <h3 align="center">A passionate software developer from india </h3>
 
 <br/>    
-
- ![giphy](https://github.com/user-attachments/assets/8b5df21a-a0c1-4f59-975d-cd0ef55207aa)
-
-  
-  
   
 🔭 I'm currently working on **a chat app** 
 
@@ -58,3 +53,11 @@
 
    <br/><br/><br/>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonihemnat7777" alt="sonihemnat7777" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonihemnat7777&show_icons=true&locale=en" alt="sonihemnat7777" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonihemnat7777&" alt="sonihemnat7777" /></p>
