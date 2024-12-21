@@ -1,3 +1,5 @@
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/a3cc3d54-cba8-4334-b681-f3df638622b0)
+
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sonihemnat7777.Sonihemnat7777" />
  
  <h1 align="center"> 
@@ -8,9 +10,11 @@
 
 <h3 align="center">A passionate software developer from india </h3>
 
-<br/>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/9ef77b9d-6c0f-4574-8554-c7514570aa8b)
-"> 
+<br/>    
+
+ 
+   ![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/user-attachments/assets/72f4487b-62d6-401a-8715-784d0f78b1fb)
+  
   
 🔭 I'm currently working on **a chat app** 
 
