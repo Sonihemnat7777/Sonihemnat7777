@@ -38,7 +38,7 @@
 <br/> 
 <div align="center">
    <a href="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
-      <img src="https://skillicons.dev/icons?i=github,python,javascript,c,c++" /><br>
+      <img src="https://skillicons.dev/icons?i=github,python,arduino,javascript,c,c++" /><br>
       <img src="https://skillicons.dev/icons?i=react,html,css,vscode," />
   </a>
 </div>
