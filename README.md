@@ -9,8 +9,8 @@
 <h3 align="center">A passionate software developer from india </h3>
 
 <br/>
-
-<div align="center"> 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/9ef77b9d-6c0f-4574-8554-c7514570aa8b)
+"> 
   
 🔭 I'm currently working on **a chat app** 
 
