@@ -57,16 +57,4 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
    <br/><br/><br/>
- </div>
- 
-<hr/>
-
-
-  
-<br/><br/>
-<hr/>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?             font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&1ines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+Linkedini;I'm+always+down+to+collab+:)">
- </a>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonihemnat7777" alt="sonihemnat7777" /></a> </p>
