@@ -1,7 +1,5 @@
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/a3cc3d54-cba8-4334-b681-f3df638622b0)
- [
-](https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif)![image](https://github.com/user-attachments/assets/c5766f28-3428-4649-a288-6462383fbc05)
-
+ 
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sonihemnat7777.Sonihemnat7777" />
  
  <h1 align="center"> 
